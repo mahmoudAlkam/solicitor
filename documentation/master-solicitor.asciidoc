@@ -2125,6 +2125,7 @@ Spring beans implementing this interface will be called at certain points in the
 == Release Notes
 Changes in 1.37.0::
 * https://github.com/devonfw/solicitor/pull/316: Additional license name mapping rules.
+* https://github.com/devonfw/solicitor/pull/317: Remove LicenseURLGuessing logic from Solicitor.
 
 Changes in 1.36.0::
 * https://github.com/devonfw/solicitor/pull/314: Scancode integration: Rename file "origin.yaml" to "package.yaml" and add PackageURL to the file.
